@@ -1,3 +1,4 @@
+# Example makefile: https://github.com/keras-team/keras/blob/master/docker/Makefile
 NAME = jupyter/minimal-notebook
 
 run:
